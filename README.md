@@ -47,4 +47,4 @@ nahi kar sakta (INJECT_EVENTS system-only permission hai). Isliye remote command
 3. **Apna Tv-agent** — parental control (block, lock, reports) + app-level actions
    (`/app/open`, screenshot, mirroring). Raw key injection sirf rooted ya ADB-enabled TV par.
 
-Document 04 (Drive: "Tv remote") me poora vistar hai.
+Poora vistar: Google Drive ke "Tv remote" folder me doc 02 (APK analysis) aur doc 03 (blueprint).
